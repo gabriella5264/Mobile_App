@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Viewer</string>
+    <string name="nave_home">Home</string>
+    <string name="nav_notif">Notification</string>
+    <string name="nav_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite">Favourite</string>
+</resources>
